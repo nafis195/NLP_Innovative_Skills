@@ -66,17 +66,6 @@ __init__ = main()
 
 
 
-# button1 >>> //*[@id="module_product_review"]/div/div/div[3]/div[2]/div/div/button[1]
-# button2 >>> //*[@id="module_product_review"]/div/div/div[3]/div[2]/div/div/button[2]
-# button3 >>> //*[@id="module_product_review"]/div/div/div[3]/div[2]/div/div/button[3]
-# button4 >>> //*[@id="module_product_review"]/div/div/div[3]/div[2]/div/div/button[4]
-# button5 >>> //*[@id="module_product_review"]/div/div/div[3]/div[2]/div/div/button[4]
-# button6 >>> //*[@id="module_product_review"]/div/div/div[3]/div[2]/div/div/button[4]
-# button7 >>> //*[@id="module_product_review"]/div/div/div[3]/div[2]/div/div/button[4]
-# button8 >>> //*[@id="module_product_review"]/div/div/div[3]/div[2]/div/div/button[4]
-# button9 >>> //*[@id="module_product_review"]/div/div/div[3]/div[2]/div/div/button[4]
-# button10 >>> //*[@id="module_product_review"]/div/div/div[3]/div[2]/div/div/button[5]
-
 
 # button1 >>> //*[@id="module_product_review"]/div/div/div[3]/div[2]/div/div/button[1]
 # button2 >>> //*[@id="module_product_review"]/div/div/div[3]/div[2]/div/div/button[2]
@@ -85,3 +74,4 @@ __init__ = main()
 # button5 >>> //*[@id="module_product_review"]/div/div/div[3]/div[2]/div/div/button[4]
 # button6 >>> //*[@id="module_product_review"]/div/div/div[3]/div[2]/div/div/button[4]
 # button7 >>> //*[@id="module_product_review"]/div/div/div[3]/div[2]/div/div/button[4]
+# buttonLast >>> //*[@id="module_product_review"]/div/div/div[3]/div[2]/div/div/button[5]
