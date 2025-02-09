@@ -1,0 +1,4 @@
+//*[@id="rso"]/div[2]/div/div/div[1]/div/div/span/a/h3
+//*[@id="rso"]/div[3]/div/div/div[1]/div/div/span/a/h3
+//*[@id="rso"]/div[4]/div/div/div[1]/div/div/span/a/h3
+//*[@id="rso"]/div[8]/div/div/div[1]/div/div/span/a/h3

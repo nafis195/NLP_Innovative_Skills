@@ -8,5 +8,8 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium_recaptcha_solver import RecaptchaSolver
+import undetected_chromedriver as uc
 # from selenium.webdriver.firefox.service import Service
 # from selenium.webdriver.firefox.options import Options
